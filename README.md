@@ -7,7 +7,7 @@ This repository contains a Python script for downloading historical stock data o
 1. **Clone the repository, navigate to the project directory, and run the script:**
 
     ```bash
-    git clone https://github.com/your-username/S&P500_Historical_Data_Project.git
+    git clone https://github.com/NadilNinduwara/S&P500_Historical_Data_Project.git
     cd S&P500_Historical_Data_Project
     python snp.py
     ```
